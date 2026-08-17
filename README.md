@@ -1,7 +1,7 @@
 # Cuaderno de Ejercicios — Funciones y Parámetros en Python
 
 Cada ejercicio está en su propio archivo `.py`, listo para correr directo
-(`python nombre_archivo.py`). Los ejemplos están tejidos con contexto real
+(`python nombre_archivo.py`). Los ejemplos están contextualizados con ejemplos de aplicaciones reales
 (Kenkō, Joblify, Clow)
 
 | Archivo | Tema | Qué demuestra |
