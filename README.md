@@ -29,3 +29,6 @@ python ej_1_2_impuesto_transacciones.py
 
 Todos corren solos porque cada archivo tiene su propio bloque
 `if __name__ == "__main__":` con las pruebas del enunciado.
+
+
+# Karla Amaranto - TDSIS V
